@@ -17,4 +17,4 @@ We are enthusiastic developers, we have created the organization in order to ach
 ![visitors](https://count.getloli.com/@revvadevs.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## Goodbye!
-`The MinTradsk organization was established on 02/27/2026`
+`The RevvaDevs organization was established on 02/27/2026`
